@@ -1,0 +1,6 @@
+<?xml version="1.0"?>
+    <resources>
+    <string translatable="false" name="app_name">MiniActv-1</string>
+    <string name="hello_world">Hello World!</string>
+    <string name="Action1">Press the Button!</string>
+</resources>
